@@ -7,3 +7,4 @@ I am a Computer Engineer who specializes in AI integration and custom Machine Le
 
 ## Teck Stack
 **Languages** = Python, Javascript, Typescript
+**AI/ML** = Pytorch, Reinforcement Learning, Pandas, Numpy
