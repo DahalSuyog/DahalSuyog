@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Suyog Dahal
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on AI research
-- 📫 How to reach me : sonofdahal@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+# Suyog Dahal
+I am a Computer Engineer who specializes in AI integration and custom Machine Learning solutions along with backend development.
 
-<!---
-Sonofdahal/Sonofdahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+## Teck Stack
+**Languages** = Python, Javascript, Typescript
