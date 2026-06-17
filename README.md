@@ -9,3 +9,5 @@ I am a Computer Engineer who specializes in AI integration and custom Machine Le
 **Languages** = Python, Javascript, Typescript
 
 **AI/ML** = Pytorch, Reinforcement Learning, Pandas, Numpy
+
+**Backend** = Fastapi, Node Js, PostgreSQL, MongoDB, Redis, Qdrant, PGVector
